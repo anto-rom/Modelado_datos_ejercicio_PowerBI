@@ -1,7 +1,7 @@
 # Modelado_datos_ejercicio_PowerBI
 Ejercicio para  The Power sobre la creación de un dashboard de Power BI avanzado
 
-🧠 Data Model
+🧠 Data Model https://www.dropbox.com/scl/fi/4y2jv8kdk0ku1968zfhjv/Modelado_datos_PowerBI.pbix?rlkey=51wnlrca73u7ffbmv9kd904a6&st=kx8uk6cq&dl=0
 
 The solution is based on a star schema, which improves query performance and analytical clarity.
 
